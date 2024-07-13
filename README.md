@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @shubhamachary56821
-- 👀 I’m interested in Java Programming and Android development.
-- 🌱 I’m currently learning Java. 
-- 💞️ I’m trying to learn full stack development from java.
+- 👀 I’m interested in Java Programming ,Android development, web development, AI and ML using python , Raspberrypi 4 and 5 , Nvdia jetson and jetson nano.
+- 🌱 I’m currently learning about web developement and AI & ML using Python. 
+- 💞️ I’m trying to learn full stack web development.
 - 📫 How to reach me ... @shubhamachary56821@gmail.com
 
 <!---
